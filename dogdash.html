@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Canine Search</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<!-- custom CSS-->
+<link href="css/main.css" rel="stylesheet">
+</head>
+
+
+
+<body style='background-color:rgb(194, 138, 76)' font-family: Georgia, Times New Roman, Times, serif, font-size: 14px></body>
+<!-- dash image source: https://www.123rf.com/photo_47574702_cute-seamless-pattern-with-hand-drawn-doodle-paw-prints-animal-background.html-->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center" style="background-image: url('paw_image.png');"style="text-color:rgb(233, 233, 235)">
+        <h1 style="color:rgb(255, 255, 255);">Less Barking, More Wagging </h1>
+        <p style="color:rgb(255, 255, 255);">Choose the pooch that best fits into your lifestyle by exploring the canine statistics below!</p>
+      </div>
+  </div>
+  <div style= 'color: rgb(129, 188, 211);' id="banner-message">
+    <p style="color:rgb(255, 255, 255);">Find Your Forever Friend!</p>
+  
+    <select class="breed_select">
+      <option></option>
+  </select>
+  
+  </div>
+  <div id="breed_data">
+    <img id="breed_image" src="" />
+    <p>
+      Breed Data
+    </p>
+    <table id="breed_data_table">
+  
+    </table>
+    <div class="col-md-5">
+      <div id="gauge"></div>
+    </div>
+  </div>
+
+<!-- Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="static/js/app.js"></script>
+
+
+
+</body>
+
+</html>
