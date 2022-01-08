@@ -1,7 +1,6 @@
 BreedName,AltBreedName,Group1,Group2,MaleWtKg,Temperment,AvgPupPrice,Intelligence,Watchdog,MalaysiaGuardedDog,MalaysiaProhibitedDog,MalaysiaPopularity,PopularityUS2017
 Affenpinscher,,Toy,Companion,4,"Active, Adventurous, Curious, Fun-loving, Playful, Stubborn",1000,37,1,,,,147
 Afghan Hound,,Sporting,Sight,28,"Aloof, Clownish, Dignified, Happy, Independent",2250,79,1,,,,93
-African Hunting Dog,,,,23,Wild,,,,,,,
 Airedale Terrier,Airedale,Terrier,Terrier,26,"Alert, Confident, Courageous, Friendly, Intelligent, Outgoing",700,29,4,,,,55
 Akbash,,Working,Guardian,53,"Affectionate, Alert, Courageous, Independent, Intelligent, Loyal",600,,5,,,,
 Akita,,Working,Herding,44,"Alert, Courageous, Dignified, Docile, Friendly, Intelligent, Responsive",1000,54,5,,1,,47
@@ -77,8 +76,6 @@ Curly-Coated Retriever,,Sporting,Gun,34,"Clever, Independent, Intelligent, Livel
 Dachshund,,Hound,Scenthound,7,"Clever, Courageous, Devoted, Lively, Playful, Stubborn",600,49,3,,,,13
 Dalmatian,,Non Sporting,Companion,25,"Active, Energetic, Friendly, Intelligent, Outgoing, Playful, Sensitive",800,39,3,,,,63
 Dandi Dinmont Terrier,Dandie Dinmont,Terrier,Terrier,10,"Affectionate, Companionable, Determined, Fun-loving, Independent, Lively, Intelligent",1500,62,3,,,,182
-Dhole,,,,18,Wild,,,,,,,
-Dingo,,,,16,Wild,,,,,,,
 Doberman Pinscher,Doberman,Working,Guardian,43,"Alert, Energetic, Fearless, Intelligent, Loyal, Obedient",900,5,6,1,,,16
 Dogo Argentino,,Working,Guardian,43,"Affectionate, Cheerful, Friendly, Loyal, Protective, Tolerant, Social",39000,,5,,1,,
 Dogue de Bordeaux,,Working,Guardian,60,"Companionable, Courageous, Devoted, Even-tempered, Loyal, Vigiliant",1150,,6,,,,67
@@ -91,7 +88,6 @@ English Setter,,Sporting,Gun,30,"Strong-willed, Mischevious, Gentle, Energetic, 
 English Shepherd,,Herding,Herding,25,"Adaptable, Alert, Courageous, Energetic, Friendly, Independent, Intelligent, Playful, Responsibe",900,,4,,,,
 English Springer Spaniel,,Sporting,Gun,23,"Affectionate, Alert, Cheerful, Energetic, Intelligent, Playful, Social",750,13,3,,,,27
 English Toy Spaniel,Blenheim Spaniel,Toy,Companion,5,"Affectionate, Gentle, Happy, Loving, Playful, Reserved",1400,,3,,,,134
-Entlebucher,,Herding,Guardian,27,"Agile, Devoted, Independent, Loyal, Self-confident",,,6,,,,152
 Eskimo Dog,,Non Sporting,Northern,8,"Alert, Energetic, Friendly, Independent, Intelligent, Protective",700,,4,,,,118
 Feist,,Terrier,Terrier,15,"Agile, Alert, Lovable, Spirited, Swift",350,,4,,,,
 Field Spaniel,,Sporting,Gun,19,"Adaptable, Cautious, Docile, Familial, Sensitive, Sociable",900,34,3,,,,145
@@ -248,4 +244,3 @@ Wirehaired Terrier,,Terrier,Terrier,7,"Alert, Bold, Fearless, Friendly, Keen, Qu
 Xoloitzcuintle/Mexican Hairless,Mexican Hairless,Non Sporting,Sight,11,"Aleret, Calm, Cheerful, Companionable, Loyal, Protective",700,,3,,,,143
 Yellow Labrador Retriever,,Sporting,Gun,32,"Affectionate, Alert, Cheerful, Energetic, Friendly, Gentle, Intelligent, Loving, Loyal, Outgoing, Playful, Responsive, Social",1500,7,3,,,,1
 Yorkshire Terrier Yorkie,Yorkshire Terrier,Toy,Companion,3,"Alert, Courageous, Energetic, Independent, Intelligent, Loyal, Playful",800,27,3,,,,9
-Mixed Breed,,,,,,,,,,,,
