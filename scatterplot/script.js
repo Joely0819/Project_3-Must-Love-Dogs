@@ -1,17 +1,22 @@
 $(document).ready(function() {
 
-  var TITLE = 'Dog lifespan and weight';
+  var TITLE = 'Dog Life Span v. Weight';
 
   var POINT_X = 'life_span'; // column name for x values in data.csv
+  var POINT_X_PREFIX = ''; // prefix for x values, eg '$'
+  var POINT_X_POSTFIX = ''; // postfix for x values, eg '%'
 
   var POINT_Y = 'weight'; // column name for y values in data.csv
+
+  var POINT_Y_PREFIX = ''; // prefix for x values
+  var POINT_Y_POSTFIX = ''; // postfix for x values
 
   var POINT_NAME = 'name'; // point names that appear in tooltip
   var POINT_COLOR = 'rgba(0,0,255,0.7)'; // eg `black` or `rgba(10,100,44,0.8)`
   var POINT_RADIUS = 5; // radius of each data point
 
-  var X_AXIS = 'Life span'; // x-axis label, label in tooltip
-  var Y_AXIS = 'Weight'; // y-axis label, label in tooltip
+  var X_AXIS = 'Life span (years)'; // x-axis label, label in tooltip
+  var Y_AXIS = 'Weight (pounds)'; // y-axis label, label in tooltip
 
   var SHOW_GRID = true; // `true` to show the grid, `false` to hide
 

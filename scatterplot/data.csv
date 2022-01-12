@@ -1,173 +1,164 @@
 life_span,weight,name
-10 - 12 years,"{'imperial': '6 - 13', 'metric': '3 - 6'}",Affenpinscher
-10 - 13 years,"{'imperial': '50 - 60', 'metric': '23 - 27'}",Afghan Hound
-11 years,"{'imperial': '44 - 66', 'metric': '20 - 30'}",African Hunting Dog
-10 - 13 years,"{'imperial': '40 - 65', 'metric': '18 - 29'}",Airedale Terrier
-10 - 12 years,"{'imperial': '90 - 120', 'metric': '41 - 54'}",Akbash Dog
-10 - 14 years,"{'imperial': '65 - 115', 'metric': '29 - 52'}",Akita
-12 - 13 years,"{'imperial': '55 - 90', 'metric': '25 - 41'}",Alapaha Blue Blood Bulldog
-10 - 13 years,"{'imperial': '38 - 50', 'metric': '17 - 23'}",Alaskan Husky
-12 - 15 years,"{'imperial': '65 - 100', 'metric': '29 - 45'}",Alaskan Malamute
-10 - 12 years,"{'imperial': '60 - 120', 'metric': '27 - 54'}",American Bulldog
-8 – 15 years,"{'imperial': '30 - 150', 'metric': '14 - 68'}",American Bully
-12 - 15 years,"{'imperial': '20 - 40', 'metric': '9 - 18'}",American Eskimo Dog
-13 – 15 years,"{'imperial': '7 - 10', 'metric': '3 - 5'}",American Eskimo Dog (Miniature)
-8 - 15 years,"{'imperial': '65 - 75', 'metric': '29 - 34'}",American Foxhound
-10 - 15 years,"{'imperial': '30 - 60', 'metric': '14 - 27'}",American Pit Bull Terrier
-12 - 15 years,"{'imperial': '50 - 60', 'metric': '23 - 27'}",American Staffordshire Terrier
-10 - 12 years,"{'imperial': '25 - 45', 'metric': '11 - 20'}",American Water Spaniel
-11 - 13 years,"{'imperial': '80 - 150', 'metric': '36 - 68'}",Anatolian Shepherd Dog
-12 – 14 years,"{'imperial': '48 - 55', 'metric': '22 - 25'}",Appenzeller Sennenhund
-12 - 14 years,"{'imperial': '44 - 62', 'metric': '20 - 28'}",Australian Cattle Dog
-10 - 13 years,"{'imperial': '31 - 46', 'metric': '14 - 21'}",Australian Kelpie
-12 - 16 years,"{'imperial': '35 - 65', 'metric': '16 - 29'}",Australian Shepherd
-15 years,"{'imperial': '14 - 16', 'metric': '6 - 7'}",Australian Terrier
-10 - 13 years,"{'imperial': '33 - 55', 'metric': '15 - 25'}",Azawakh
-13 – 15 years,"{'imperial': '40 - 65', 'metric': '18 - 29'}",Barbet
-10 - 12 years,"{'imperial': '22 - 24', 'metric': '10 - 11'}",Basenji
-10 - 14 years,"{'imperial': '35 - 40', 'metric': '16 - 18'}",Basset Bleu de Gascogne
-12 - 15 years,"{'imperial': '50 - 65', 'metric': '23 - 29'}",Basset Hound
-13 - 16 years,"{'imperial': '20 - 35', 'metric': '9 - 16'}",Beagle
-12 - 14 years,"{'imperial': '45 - 55', 'metric': '20 - 25'}",Bearded Collie
-10 - 12 years,"{'imperial': '80 - 110', 'metric': '36 - 50'}",Beauceron
-14 - 16 years,"{'imperial': '17 - 23', 'metric': '8 - 10'}",Bedlington Terrier
-12 - 14 years,"{'imperial': '40 - 80', 'metric': '18 - 36'}",Belgian Malinois
-10 - 12 years,"{'imperial': '40 - 65', 'metric': '18 - 29'}",Belgian Tervuren
-7 - 10 years,"{'imperial': '65 - 120', 'metric': '29 - 54'}",Bernese Mountain Dog
-15 years,"{'imperial': '10 - 18', 'metric': '5 - 8'}",Bichon Frise
-10 - 12 years,"{'imperial': '65 - 100', 'metric': '29 - 45'}",Black and Tan Coonhound
-8 - 10 years,"{'imperial': '80 - 110', 'metric': '36 - 50'}",Bloodhound
-12 - 14 years,"{'imperial': '45 - 80', 'metric': '20 - 36'}",Bluetick Coonhound
-10 - 12 years,"{'imperial': '110 - 200', 'metric': '50 - 91'}",Boerboel
-12 - 16 years,"{'imperial': '30 - 45', 'metric': '14 - 20'}",Border Collie
-12 - 14 years,"{'imperial': '11.5 - 15.5', 'metric': '5 - 7'}",Border Terrier
-11 - 13 years,"{'imperial': '10 - 25', 'metric': '5 - 11'}",Boston Terrier
-10 - 15 years,"{'imperial': '70 - 110', 'metric': '32 - 50'}",Bouvier des Flandres
-8 - 10 years,"{'imperial': '50 - 70', 'metric': '23 - 32'}",Boxer
-10 - 14 years,"{'imperial': '25 - 40', 'metric': '11 - 18'}",Boykin Spaniel
-10 - 12 years,"{'imperial': '55 - 88', 'metric': '25 - 40'}",Bracco Italiano
-10 - 12 years,"{'imperial': '70 - 90', 'metric': '32 - 41'}",Briard
-12 - 14 years,"{'imperial': '30 - 45', 'metric': '14 - 20'}",Brittany
-10 - 12 years,"{'imperial': '50 - 70', 'metric': '23 - 32'}",Bull Terrier
-11 – 14 years,"{'imperial': '25 - 33', 'metric': '11 - 15'}",Bull Terrier (Miniature)
-8 - 12 years,"{'imperial': '100 - 130', 'metric': '45 - 59'}",Bullmastiff
-14 - 15 years,"{'imperial': '13 - 14', 'metric': '6 - 6'}",Cairn Terrier
-10 - 11 years,"{'imperial': '88 - 120', 'metric': '40 - 54'}",Cane Corso
-12 - 14 years,"{'imperial': '25 - 38', 'metric': '11 - 17'}",Cardigan Welsh Corgi
-10 - 12 years,"{'imperial': '50 - 95', 'metric': '23 - 43'}",Catahoula Leopard Dog
-10 - 12 years,"{'imperial': '80 - 100', 'metric': '36 - 45'}",Caucasian Shepherd (Ovcharka)
-10 - 14 years,"{'imperial': '13 - 18', 'metric': '6 - 8'}",Cavalier King Charles Spaniel
-10 - 13 years,"{'imperial': '55 - 80', 'metric': '25 - 36'}",Chesapeake Bay Retriever
-10 - 14 years,"{'imperial': '10 - 13', 'metric': '5 - 6'}",Chinese Crested
-10 years,"{'imperial': '45 - 60', 'metric': '20 - 27'}",Chinese Shar-Pei
-12 - 15 years,"{'imperial': '50 - 90', 'metric': '23 - 41'}",Chinook
-12 - 15 years,"{'imperial': '40 - 70', 'metric': '18 - 32'}",Chow Chow
-10 - 12 years,"{'imperial': '55 - 85', 'metric': '25 - 39'}",Clumber Spaniel
-12 - 15 years,"{'imperial': '20 - 30', 'metric': '9 - 14'}",Cocker Spaniel
-12 - 15 years,"{'imperial': '20 - 30', 'metric': '9 - 14'}",Cocker Spaniel (American)
-13 - 16 years,"{'imperial': '9 - 15', 'metric': '4 - 7'}",Coton de Tulear
-10 - 13 years,"{'imperial': '50 - 55', 'metric': '23 - 25'}",Dalmatian
-10 years,"{'imperial': '66 - 88', 'metric': '30 - 40'}",Doberman Pinscher
-10 - 12 years,"{'imperial': '80 - 100', 'metric': '36 - 45'}",Dogo Argentino
-15 years,"{'imperial': '50 - 70', 'metric': '23 - 32'}",Dutch Shepherd
-12 years,"{'imperial': '45 - 80', 'metric': '20 - 36'}",English Setter
-10 - 13 years,"{'imperial': '44 - 66', 'metric': '20 - 30'}",English Shepherd
-12 - 14 years,"{'imperial': '35 - 50', 'metric': '16 - 23'}",English Springer Spaniel
-10 - 12 years,"{'imperial': '8 - 14', 'metric': '4 - 6'}",English Toy Spaniel
-12 - 13 years,"{'imperial': '6 - 8', 'metric': '3 - 4'}",English Toy Terrier
-12 - 14 years,"{'imperial': '40 - 70', 'metric': '18 - 32'}",Eurasier
-11 - 15 years,"{'imperial': '35 - 50', 'metric': '16 - 23'}",Field Spaniel
-12 - 15 years,"{'imperial': '33 - 53', 'metric': '15 - 24'}",Finnish Lapphund
-12 - 15 years,"{'imperial': '23 - 28', 'metric': '10 - 13'}",Finnish Spitz
-9 - 11 years,"{'imperial': '28', 'metric': '13'}",French Bulldog
-12 - 14 years,"{'imperial': '25 - 45', 'metric': '11 - 20'}",German Pinscher
-10 - 13 years,"{'imperial': '50 - 90', 'metric': '23 - 41'}",German Shepherd Dog
-12 - 14 years,"{'imperial': '45 - 70', 'metric': '20 - 32'}",German Shorthaired Pointer
-10 - 12 years,"{'imperial': '65 - 90', 'metric': '29 - 41'}",Giant Schnauzer
-12 - 15 years,"{'imperial': '32 - 40', 'metric': '15 - 18'}",Glen of Imaal Terrier
-10 - 12 years,"{'imperial': '55 - 75', 'metric': '25 - 34'}",Golden Retriever
-10 - 12 years,"{'imperial': '45 - 80', 'metric': '20 - 36'}",Gordon Setter
-7 - 10 years,"{'imperial': '110 - 190', 'metric': '50 - 86'}",Great Dane
-10 - 12 years,"{'imperial': '85 - 115', 'metric': '39 - 52'}",Great Pyrenees
-10 - 13 years,"{'imperial': '50 - 70', 'metric': '23 - 32'}",Greyhound
-10 – 15 years,"{'imperial': '12', 'metric': '5'}",Griffon Bruxellois
-12 - 15 years,"{'imperial': '40 - 60', 'metric': '18 - 27'}",Harrier
-14 - 15 years,"{'imperial': '7 - 13', 'metric': '3 - 6'}",Havanese
-10 - 11 years,"{'imperial': '35 - 70', 'metric': '16 - 32'}",Irish Setter
-12 - 16 years,"{'imperial': '25 - 27', 'metric': '11 - 12'}",Irish Terrier
-6 - 8 years,"{'imperial': '105 - 180', 'metric': '48 - 82'}",Irish Wolfhound
-12 - 15 years,"{'imperial': '7 - 15', 'metric': '3 - 7'}",Italian Greyhound
-12 - 14 years,"{'imperial': '4 - 9', 'metric': '2 - 4'}",Japanese Chin
-10 – 16 years,"{'imperial': '15 - 19', 'metric': '7 - 9'}",Japanese Spitz
-12 - 15 years,"{'imperial': '35 - 45', 'metric': '16 - 20'}",Keeshond
-10 - 12 years,"{'imperial': '80 - 100', 'metric': '36 - 45'}",Komondor
-12 - 15 years,"{'imperial': '20 - 30', 'metric': '9 - 14'}",Kooikerhondje
-8 - 10 years,"{'imperial': '70 - 115', 'metric': '32 - 52'}",Kuvasz
-10 - 13 years,"{'imperial': '55 - 80', 'metric': '25 - 36'}",Labrador Retriever
-14 - 16 years,"{'imperial': '24 - 35', 'metric': '11 - 16'}",Lagotto Romagnolo
-12 – 15 years,"{'imperial': '6 - 13', 'metric': '3 - 6'}",Lancashire Heeler
-6 - 8 years,"{'imperial': '120 - 170', 'metric': '54 - 77'}",Leonberger
-12 - 15 years,"{'imperial': '12 - 18', 'metric': '5 - 8'}",Lhasa Apso
-15 - 18 years,"{'imperial': '4 - 7', 'metric': '2 - 3'}",Maltese
-12 - 15 years,"{'imperial': '20 - 40', 'metric': '9 - 18'}",Miniature American Shepherd
-15 years,"{'imperial': '8 - 11', 'metric': '4 - 5'}",Miniature Pinscher
-12 - 14 years,"{'imperial': '11 - 20', 'metric': '5 - 9'}",Miniature Schnauzer
-8 - 10 years,"{'imperial': '100 - 150', 'metric': '45 - 68'}",Newfoundland
-12 - 15 years,"{'imperial': '11 - 12', 'metric': '5 - 5'}",Norfolk Terrier
-12 - 15 years,"{'imperial': '11 - 12', 'metric': '5 - 5'}",Norwich Terrier
-12 - 14 years,"{'imperial': '35 - 50', 'metric': '16 - 23'}",Nova Scotia Duck Tolling Retriever
-10 - 12 years,"{'imperial': '60 - 100', 'metric': '27 - 45'}",Old English Sheepdog
-9 – 14 years,"{'imperial': '65 – 85', 'metric': 'NaN'}",Olde English Bulldogge
-13 - 17 years,"{'imperial': '3 - 12', 'metric': '1 - 5'}",Papillon
-14 - 18 years,"{'imperial': '14', 'metric': '6'}",Pekingese
-12 - 14 years,"{'imperial': '25 - 30', 'metric': '11 - 14'}",Pembroke Welsh Corgi
-10 - 12 years,"{'imperial': '88 - 110', 'metric': '40 - 50'}",Perro de Presa Canario
-12 - 14 years,"{'imperial': '40 - 60', 'metric': '18 - 27'}",Pharaoh Hound
-12 - 14 years,"{'imperial': '40 - 60', 'metric': '18 - 27'}",Plott
-15 years,"{'imperial': '3 - 7', 'metric': '1 - 3'}",Pomeranian
-12 – 15 years,"{'imperial': '15 - 17', 'metric': '7 - 8'}",Poodle (Miniature)
-18 years,"{'imperial': '6 - 9', 'metric': '3 - 4'}",Poodle (Toy)
-12 - 14 years,"{'imperial': '14 - 18', 'metric': '6 - 8'}",Pug
-12 - 16 Years years,"{'imperial': '25 - 35', 'metric': '11 - 16'}",Puli
-13 - 15 years,"{'imperial': '18 - 33', 'metric': '8 - 15'}",Pumi
-12 - 18 years,"{'imperial': '8 - 25', 'metric': '4 - 11'}",Rat Terrier
-10 - 12 years,"{'imperial': '45 - 80', 'metric': '20 - 36'}",Redbone Coonhound
-10 - 12 years,"{'imperial': '75 - 80', 'metric': '34 - 36'}",Rhodesian Ridgeback
-8 - 10 years,"{'imperial': '75 - 110', 'metric': '34 - 50'}",Rottweiler
-10 - 12 years,"{'imperial': '3 - 6', 'metric': '1 - 3'}",Russian Toy
-7 - 10 years,"{'imperial': '130 - 180', 'metric': '59 - 82'}",Saint Bernard
-12 - 14 years,"{'imperial': '35 - 65', 'metric': '16 - 29'}",Saluki
-12 - 14 years,"{'imperial': '50 - 60', 'metric': '23 - 27'}",Samoyed
-13 - 15 years,"{'imperial': '10 - 16', 'metric': '5 - 7'}",Schipperke
-8 - 10 years,"{'imperial': '70 - 130', 'metric': '32 - 59'}",Scottish Deerhound
-11 - 13 years,"{'imperial': '18 - 22', 'metric': '8 - 10'}",Scottish Terrier
-12 - 14 years,"{'imperial': '30', 'metric': '14'}",Shetland Sheepdog
-12 - 16 years,"{'imperial': '17 - 23', 'metric': '8 - 10'}",Shiba Inu
-10 - 18 years,"{'imperial': '9 - 16', 'metric': '4 - 7'}",Shih Tzu
-9 – 14 years,"{'imperial': '120 - 140', 'metric': '54 - 64'}",Shiloh Shepherd
-12 years,"{'imperial': '35 - 60', 'metric': '16 - 27'}",Siberian Husky
-12 - 15 years,"{'imperial': '8 - 10', 'metric': '4 - 5'}",Silky Terrier
-12 - 14 years,"{'imperial': 'up - 18', 'metric': 'NaN - 8'}",Smooth Fox Terrier
-12 - 15 years,"{'imperial': '30 - 40', 'metric': '14 - 18'}",Soft Coated Wheaten Terrier
-12 - 15 years,"{'imperial': '30 - 50', 'metric': '14 - 23'}",Spanish Water Dog
-10 - 12 years,"{'imperial': '61 - 85', 'metric': '28 - 39'}",Spinone Italiano
-12 - 14 years,"{'imperial': '24 - 38', 'metric': '11 - 17'}",Staffordshire Bull Terrier
-13 - 15 years,"{'imperial': '30 - 50', 'metric': '14 - 23'}",Standard Schnauzer
-12 - 14 years,"{'imperial': '20 - 30', 'metric': '9 - 14'}",Swedish Vallhund
-10 - 12 years,"{'imperial': '35 - 55', 'metric': '16 - 25'}",Thai Ridgeback
-10 - 14 years,"{'imperial': '85 - 140', 'metric': '39 - 64'}",Tibetan Mastiff
-12 - 15 years,"{'imperial': '9 - 15', 'metric': '4 - 7'}",Tibetan Spaniel
-12 - 15 years,"{'imperial': '20 - 24', 'metric': '9 - 11'}",Tibetan Terrier
-12 - 15 years,"{'imperial': '4 - 9', 'metric': '2 - 4'}",Toy Fox Terrier
-10 - 13 years,"{'imperial': '45 - 80', 'metric': '20 - 36'}",Treeing Walker Coonhound
-10 - 14 years,"{'imperial': '50 - 65', 'metric': '23 - 29'}",Vizsla
-12 - 15 years,"{'imperial': '55 - 90', 'metric': '25 - 41'}",Weimaraner
-12 - 15 years,"{'imperial': '35 - 55', 'metric': '16 - 25'}",Welsh Springer Spaniel
-15 - 20 years,"{'imperial': '15 - 22', 'metric': '7 - 10'}",West Highland White Terrier
-12 - 15 years,"{'imperial': '25 - 35', 'metric': '11 - 16'}",Whippet
-12 – 14 years,"{'imperial': '60 - 85', 'metric': '27 - 39'}",White Shepherd
-13 – 14 years,"{'imperial': '15 - 19', 'metric': '7 - 9'}",Wire Fox Terrier
-12 - 14 years,"{'imperial': '45 - 70', 'metric': '20 - 32'}",Wirehaired Pointing Griffon
-12 - 14 years,"{'imperial': '45 - 65', 'metric': '20 - 29'}",Wirehaired Vizsla
-12 - 14 years,"{'imperial': '9 - 31', 'metric': '4 - 14'}",Xoloitzcuintli
-12 - 16 years,"{'imperial': '4 - 7', 'metric': '2 - 3'}",Yorkshire Terrier
+12,6,Affenpinscher
+13,50,Afghan Hound
+11,44,African Hunting Dog
+13,40,Airedale Terrier
+12,90,Akbash Dog
+14,65,Akita
+13,55,Alapaha Blue Blood Bulldog
+13,38,Alaskan Husky
+15,65,Alaskan Malamute
+12,60,American Bulldog
+15,30,American Bully
+15,20,American Eskimo Dog
+15,7,American Eskimo Dog (Miniature)
+15,65,American Foxhound
+15,30,American Pit Bull Terrier
+15,50,American Staffordshire Terrier
+12,25,American Water Spaniel
+13,80,Anatolian Shepherd Dog
+14,48,Appenzeller Sennenhund
+14,44,Australian Cattle Dog
+13,31,Australian Kelpie
+16,35,Australian Shepherd
+15,14,Australian Terrier
+13,33,Azawakh
+15,40,Barbet
+12,22,Basenji
+14,35,Basset Bleu de Gascogne
+15,50,Basset Hound
+16,20,Beagle
+14,45,Bearded Collie
+12,80,Beauceron
+16,17,Bedlington Terrier
+14,40,Belgian Malinois
+12,40,Belgian Tervuren
+10,65,Bernese Mountain Dog
+12,65,Black and Tan Coonhound
+10,80,Bloodhound
+14,45,Bluetick Coonhound
+12,110,Boerboel
+16,30,Border Collie
+14,11.5,Border Terrier
+13,10,Boston Terrier
+15,70,Bouvier des Flandres
+10,50,Boxer
+14,25,Boykin Spaniel
+12,55,Bracco Italiano
+12,70,Briard
+14,30,Brittany
+12,50,Bull Terrier
+14,25,Bull Terrier (Miniature)
+12,100,Bullmastiff
+15,13,Cairn Terrier
+11,88,Cane Corso
+14,25,Cardigan Welsh Corgi
+12,50,Catahoula Leopard Dog
+12,80,Caucasian Shepherd (Ovcharka)
+14,13,Cavalier King Charles Spaniel
+13,55,Chesapeake Bay Retriever
+14,10,Chinese Crested
+15,50,Chinook
+15,40,Chow Chow
+12,55,Clumber Spaniel
+15,20,Cocker Spaniel
+15,20,Cocker Spaniel (American)
+16,9,Coton de Tulear
+13,50,Dalmatian
+12,80,Dogo Argentino
+13,44,English Shepherd
+14,35,English Springer Spaniel
+12,8,English Toy Spaniel
+13,6,English Toy Terrier
+14,40,Eurasier
+15,35,Field Spaniel
+15,33,Finnish Lapphund
+15,23,Finnish Spitz
+11,28,French Bulldog
+14,25,German Pinscher
+13,50,German Shepherd Dog
+14,45,German Shorthaired Pointer
+12,65,Giant Schnauzer
+15,32,Glen of Imaal Terrier
+12,55,Golden Retriever
+12,45,Gordon Setter
+10,110,Great Dane
+12,85,Great Pyrenees
+13,50,Greyhound
+15,12,Griffon Bruxellois
+15,40,Harrier
+15,7,Havanese
+11,35,Irish Setter
+16,25,Irish Terrier
+8,105,Irish Wolfhound
+15,7,Italian Greyhound
+14,4,Japanese Chin
+16,15,Japanese Spitz
+15,35,Keeshond
+12,80,Komondor
+15,20,Kooikerhondje
+10,70,Kuvasz
+13,55,Labrador Retriever
+16,24,Lagotto Romagnolo
+15,6,Lancashire Heeler
+8,120,Leonberger
+15,12,Lhasa Apso
+18,4,Maltese
+15,20,Miniature American Shepherd
+14,11,Miniature Schnauzer
+10,100,Newfoundland
+15,11,Norfolk Terrier
+15,11,Norwich Terrier
+14,35,Nova Scotia Duck Tolling Retriever
+12,60,Old English Sheepdog
+14,65,Olde English Bulldogge
+17,3,Papillon
+18,14,Pekingese
+14,25,Pembroke Welsh Corgi
+12,88,Perro de Presa Canario
+14,40,Pharaoh Hound
+14,40,Plott
+15,15,Poodle (Miniature)
+14,14,Pug
+16,25,Puli
+15,18,Pumi
+18,8,Rat Terrier
+12,45,Redbone Coonhound
+12,75,Rhodesian Ridgeback
+10,75,Rottweiler
+12,3,Russian Toy
+10,130,Saint Bernard
+14,35,Saluki
+14,50,Samoyed
+15,10,Schipperke
+10,70,Scottish Deerhound
+13,18,Scottish Terrier
+14,30,Shetland Sheepdog
+16,17,Shiba Inu
+18,9,Shih Tzu
+14,120,Shiloh Shepherd
+15,8,Silky Terrier
+14,up,Smooth Fox Terrier
+15,30,Soft Coated Wheaten Terrier
+15,30,Spanish Water Dog
+12,61,Spinone Italiano
+14,24,Staffordshire Bull Terrier
+15,30,Standard Schnauzer
+14,20,Swedish Vallhund
+12,35,Thai Ridgeback
+14,85,Tibetan Mastiff
+15,9,Tibetan Spaniel
+15,20,Tibetan Terrier
+15,4,Toy Fox Terrier
+13,45,Treeing Walker Coonhound
+14,50,Vizsla
+15,55,Weimaraner
+15,35,Welsh Springer Spaniel
+20,15,West Highland White Terrier
+15,25,Whippet
+14,60,White Shepherd
+14,15,Wire Fox Terrier
+14,45,Wirehaired Pointing Griffon
+14,45,Wirehaired Vizsla
+14,9,Xoloitzcuintli
+16,4,Yorkshire Terrier
