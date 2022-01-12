@@ -14,7 +14,7 @@ var bonusGauge = d3.select("gauge");
 //populate dropdown menu with breeds
 function dropdown() {resetData();
 // reestablish connection to noodling.json file data 
-d3.json("data/noodling.json").then((data => {
+d3.json("data/Final_Dog.json").then((data => {
     //Append breed names to the var breedSelect will add them to the drop down menu 
         data.names.forEach((name => {
                     var option = breedSelect.append("option");
@@ -39,7 +39,7 @@ bonusGauge.html("");
 
 
 // PLOTTING
-function plotCharts(BreedName) {d3.json("data/noodling.json").then((data => {
+function plotCharts(BreedName) {d3.json("data/Final_dog.json").then((data => {
                                 var individualdogMetadata = data.metadata.filter(participant => participant.BreedName == BreedName)[0];
                                 var lifeSpan = individualdogMetadata.life_span;
   
@@ -128,7 +128,7 @@ steps: [
     
 };
 //Meter pointer math 
-var angle = (lifeSpan) * 180;
+var angle = (lifeSpan)/20 * 180;
 var degrees = 180 - angle,
     radius = .8;
 var radians = degrees * Math.PI / 180;
