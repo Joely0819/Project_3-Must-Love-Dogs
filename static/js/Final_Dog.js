@@ -1,35 +1,30 @@
-//"id": 940, 
-//"ethnicity": "Caucasian", 
-//"gender": "F", 
-//"age": 24.0, 
-//"location": "Beaufort/NC", 
-//"bbtype": "I", 
-//"wfreq": 2.0}
-//Check to make sure the data reads in the console 
-d3.json('data/noodling.json').then(data => console.log(data))
+
+
+
+//LINKING EVERYTHING INTO HTML:
 // choose drop down id from html file 
 var breedSelect = d3.select("#selDataset");
 // select demo info div info
 var infoTable = d3.select("#sample-metadata");
 // establish all of your charts that are present in the html
 var barChart = d3.select("#bar");
-var bubbleChart = d3.select("bubble");
 var bonusGauge = d3.select("gauge");
 
+//DROPDOWN:
 //populate dropdown menu with breeds
 function dropdown() {resetData();
 // reestablish connection to noodling.json file data 
-    d3.json("data/noodling.json").then((data => {
+d3.json("data/noodling.json").then((data => {
     //Append breed names to the var breedSelect will add them to the drop down menu 
-    data.names.forEach((name => {
-            var option = breedSelect.append("option");
-            option.text(name);
-          })); 
-
+        data.names.forEach((name => {
+                    var option = breedSelect.append("option");
+                    option.text(name);
+         
+    })); 
 // 1st ID and matching charts 
 //("value") will choose each value in the names dictionary and add to drop down 
     var menuId = breedSelect.property("value")
-    plotCharts(menuId);
+plotCharts(menuId);
       })); 
 } 
 
@@ -38,18 +33,15 @@ function resetData() {
   //Clearing out all data
 infoTable.html("");
 barChart.html("");
-bubbleChart.html("");
 bonusGauge.html("");
 
 }; 
 
+
 // PLOTTING
-function plotCharts(BreedName) {
-//read json wiith d3
-d3.json("data/noodling.json").then((data => {
-var individualdogMetadata = data.metadata.filter(participant => participant.BreedName == BreedName)[0];
-var AvgPupPrice = individualdogMetadata.AvgPupPrice;
-var lifeSpan = individualdogMetadata.life_span;
+function plotCharts(BreedName) {d3.json("data/noodling.json").then((data => {
+                                var individualdogMetadata = data.metadata.filter(participant => participant.BreedName == BreedName)[0];
+                                var lifeSpan = individualdogMetadata.life_span;
   
 
 // Iteration through each key
@@ -103,7 +95,7 @@ var layoutBar = {
     Plotly.newPlot("bar", dataBar, layoutBar);
 
 // ***BONUS***
-if (lifeSpan == null) 
+if (lifeSpan == '') 
 {lifeSpan = 0;}
 // create an indicator trace for the gauge chart
 var traceGauge = {
@@ -111,11 +103,13 @@ var traceGauge = {
     value: lifeSpan,
     type: "indicator",
     mode: "gauge",
-    gauge: {axis: {
-    range: [0,20],
-    tickmode: 'linear',
-    tickfont: {
-    size: 15}},
+    gauge: {
+        axis: {
+        range: [0,20],
+        tickmode: 'linear',
+        tickvals: [0, 5, 10, 20],
+        tickfont: {
+        size: 15}},
 //transparent because we will make another pointer below
 bar: { color: 'rgb(87, 31, 39)' }, 
 // choose all your colors 
