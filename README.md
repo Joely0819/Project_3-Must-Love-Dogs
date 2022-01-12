@@ -1,2 +1,14 @@
 # Project_3-Must-Love-Dogs
-Our dog adoption dashboard will mirror the belly button biodiversity homework in a sense that we will provide the user with a drop down menu allowing them to choose from a variety of dog breeds. Once a breed is chosen, the dashboard will present the user with a variety of information pulled from the dog API and the petfinder API including, dog traits, weight, height, lifespan, and locations of adoption. 
+Our dog adoption dashboard provides the user with a drop down menu allowing them to choose from a variety of dog breeds. Once a breed is chosen, the dashboard will present the user with a variety of information pulled from the dog API including, dog traits, weight, height, lifespan. 
+
+Our app includes 3 visualizations: 
+    Gauge : demonstrates the average lifespan for selected breed using D3.js
+    Bar chart: demonstrates the  purchase price information using plotly.js
+    Scatterplot: demonstrates the correlation between breed weight and lifespan
+## Demo 
+https://github.com/Joely0819/Project_3-Must-Love-Dogs.git
+
+Sample data by kaggle.com and thedogapi
+App must be opened using a local http server
+
+
