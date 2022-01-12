@@ -11,41 +11,46 @@
 </head>
 
 <body style='background-color:rgb(64, 79, 54)' font-family: Georgia, Times New Roman, Times, serif, font-size: 14px></body>
-
   <div class="container">
     <div class="row">
       <div class="col-md-12 jumbotron text-center" style="background-color:rgb(86, 110, 74)">
         <h1 style="color:white;">Less Barking, More Wagging </h1>
         <p style="color:white;">Choose the pooch that best fits into your lifestyle by exploring the canine statistics below!</p>
-      </div>
     </div>
-    <div class="row">
-      <div class="col-md-2">
-        <div class="well">
-          <h5>Choose Your Breed:</h5>
-          <select id="selDataset" onchange="optionChanged(this.value)"></select>
-        </div>
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-            <h3 class="panel-title">Canine Information</h3>
-          </div>
-          <div id="sample-metadata" class="panel-body"></div>
-        </div>
-      </div>
-      <div class="col-md-5">
-        <div id="bar"></div>
-      </div>
-      <div class="col-md-5">
-        <div id="gauge"></div>
-      </div>
+</div>
+</div>
+<div class="row">
+  <div class="col-md-2">
+    <div class="well">
+      <h5>Breed Selector:</h5>
+      <select id="selDataset" onchange="optionChanged(this.value)"></select>
     </div>
+    <div style="color:green ;"class="panel panel-primary">
+      <div  class="panel-heading">
+        <h3 class="panel-title;" style= "background-color:green;">Canine Info</h3>
+      </div>
+      <div id="sample-metadata" style= "color: green ;" class= "panel-body"></div>
     </div>
   </div>
+  <div class="col-md-5">
+    <div id="bar"></div>
+  </div>
+  <div class="col-md-5">
+    <div id="gauge"></div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-12">
+    <div id="bubble"></div>
+  </div>
+</div>
+</div>
 <!-- Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
   
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   
   <script src="https://d3js.org/d3.v5.min.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>

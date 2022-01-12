@@ -62,9 +62,45 @@ var lifeSpan = individualdogMetadata.life_span;
             listItem.text(`${key}: ${value}`);
 
         }); 
+
+    //"id": BreedName
+    //otu_id= BreedName 
+
+        // filter
+        var individualSample = data.metadata.filter(sample => sample.BreedName == BreedName)[0];
+        // empty array to store data
+        var barIds = [];
+        var dogPrice = [];
+        var sampleValues = [0, 100, 500, 1,000, 5,000];
+        // Another Iteratation 
+        Object.entries(individualSample).forEach(([key, value]) => {
+switch (key) {case "BreedName": barIds.push(value);
+break; 
+case "AvgPupPrice":dogPrice.push(value);
+break;
+default:
+break;} })
+; 
+
+// PLOTTING
+var traceBar = {
+    x: dogPrice,
+    y: barIds,
+    type: 'bar',
+    orientation: 'h',
+    marker: {color: 'rgb(64, 79, 54)'}};
         
-        
-        
+var dataBar = [traceBar];
+// plot layout
+var layoutBar = {
+    height: 500,
+    width: 600,
+    font: {family: 'Quicksand'},hoverlabel: {font: {family: 'Quicksand'}},
+    title: {text: `<b>Average Purchase Price </b><br> for a ${BreedName} pup!</b>`,
+    font: {size: 25 ,color: 'rgb(64, 79, 54)'}},
+    xaxis: {title: "<b>Price $<b>",color: 'rgb(64, 79, 54)'},
+    yaxis: {tickfont: { size: 20 }}}
+    Plotly.newPlot("bar", dataBar, layoutBar);
 
 // ***BONUS***
 if (lifeSpan == null) 
@@ -76,7 +112,7 @@ var traceGauge = {
     type: "indicator",
     mode: "gauge",
     gauge: {axis: {
-    range: [0, 20],
+    range: [0,20],
     tickmode: 'linear',
     tickfont: {
     size: 15}},
@@ -84,14 +120,21 @@ var traceGauge = {
 bar: { color: 'rgb(87, 31, 39)' }, 
 // choose all your colors 
 steps: [
-    { range: [0, 5], color: 'rgb(185, 224, 244)' },
-    { range: [5, 10], color: 'rgb(164, 212, 239)' },
-    { range: [10, 15], color: 'rgb(134, 193, 232)' },
-    { range: [15, 20], color: 'rgb(114, 181, 228)' }]}
+    { range: [0, 2], color: 'rgb(142, 195, 132)' },
+    { range: [2, 4], color: 'rgb(131, 177, 120)' },
+    { range: [4, 6], color: 'rgb(120, 160, 108)' },
+    { range: [6, 8], color: 'rgb(109, 143, 96)' },
+    { range: [8, 10], color: 'rgb(98, 126, 85)' },
+    { range: [10, 12], color: 'rgb(86, 110, 74)' },
+    { range: [12, 14], color: 'rgb(81, 102, 69)' },
+    { range: [14, 16], color: 'rgb(75, 94, 64)' },
+    { range: [16, 18], color: 'rgb(70, 87, 59)' },
+    { range: [18, 20], color: 'rgb(64, 79, 54)' }
+]}
     
 };
 //Meter pointer math 
-var angle = (lifeSpan/ 20) * 180;
+var angle = (lifeSpan) * 180;
 var degrees = 180 - angle,
     radius = .8;
 var radians = degrees * Math.PI / 180;
@@ -129,8 +172,8 @@ var traceNeedleCenter = {
             }],
             font: {family: 'Quicksand'},
             hoverlabel: {font: {family: 'Quicksand',size: 16}},
-            title: {text: `<b>Test Subject ${BreedName}</b><br><b>Breed Life Span</b><br><br>Average in Years`,
-            font: {size: 20,color: 'rgb(42, 136, 212)'},},
+            title: {text: `<b>Dog Breed: ${BreedName}</b><br><b>Life Span</b><br>Average in Years`,
+            font: {size: 30 ,color: 'rgb(64, 79, 54)'},},
             height: 500,
             width: 500,
             xaxis: {
