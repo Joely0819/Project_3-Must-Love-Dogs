@@ -1,6 +1,4 @@
 
-
-
 //LINKING EVERYTHING INTO HTML:
 // choose drop down id from html file 
 var breedSelect = d3.select("#selDataset");
