@@ -3,9 +3,9 @@ Our dog adoption dashboard provides the user with a drop down menu allowing them
 
 Our app includes 3 visualizations: 
 
-    Gauge : demonstrates the average lifespan for selected breed using D3.js.
-    Bar chart: demonstrates the  purchase price information using plotly.js.
-    Scatterplot: demonstrates the correlation between breed weight and lifespan.
+    Gauge : demonstrates the average lifespan for selected breed using D3.
+    Bar chart: demonstrates the  purchase price information using plotly.
+    Scatterplot: demonstrates the correlation between breed weight and lifespan using chart.js.
 ## Demo 
 https://github.com/Joely0819/Project_3-Must-Love-Dogs.git
 
