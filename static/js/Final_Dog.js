@@ -83,13 +83,13 @@ var traceBar = {
 var dataBar = [traceBar];
 // plot layout
 var layoutBar = {
-    height: 500,
-    width: 600,
+    height: 400,
+    width: 400,
     font: {family: 'Quicksand'},hoverlabel: {font: {family: 'Quicksand'}},
     title: {text: `<b>Average Purchase Price </b><br> for a ${BreedName} pup!</b>`,
-    font: {size: 25 ,color: 'rgb(64, 79, 54)'}},
+    font: {size: 20 ,color: 'rgb(64, 79, 54)'}},
     xaxis: {title: "<b>Price $<b>",color: 'rgb(64, 79, 54)'},
-    yaxis: {tickfont: { size: 20 }}}
+    yaxis: {tickfont: { size: 13 }}}
     Plotly.newPlot("bar", dataBar, layoutBar);
 
 // ***BONUS***
@@ -165,9 +165,9 @@ var traceNeedleCenter = {
             font: {family: 'Quicksand'},
             hoverlabel: {font: {family: 'Quicksand',size: 16}},
             title: {text: `<b>Dog Breed: ${BreedName}</b><br><b>Life Span</b><br>Average in Years`,
-            font: {size: 30 ,color: 'rgb(64, 79, 54)'},},
-            height: 500,
-            width: 500,
+            font: {size: 20 ,color: 'rgb(64, 79, 54)'},},
+            height: 400,
+            width: 400,
             xaxis: {
                 zeroline: false,
                 showticklabels: false,

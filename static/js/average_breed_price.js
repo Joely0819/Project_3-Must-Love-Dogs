@@ -39,7 +39,11 @@ let trace1 = {
 let data = [trace1];
 
 let layout = {
-  title: title
+  title: title,
+  height: 650,
+  width: 1025,
+  font: {family: 'Quicksand', size:10},hoverlabel: {font: {family: 'Quicksand'}}
+
 };
 
 Plotly.newPlot("trybar", data, layout);

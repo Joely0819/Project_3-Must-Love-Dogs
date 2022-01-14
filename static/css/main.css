@@ -102,7 +102,7 @@
     content: "";
     position: absolute;
     top: 15px;
-    left: -30px;
+    left: -40px;
     z-index: 1;
     border: 15px solid;
     border-color: transparent #9972bf transparent transparent;
@@ -110,4 +110,8 @@
 
 .navbar ul li a.dd_menu_a.active + .dd_submenu{
 	display: block;
+}
+.panel {
+     word-wrap: break-word; 
+
 }

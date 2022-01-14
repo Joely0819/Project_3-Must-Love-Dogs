@@ -18,33 +18,38 @@
         <p style="color:white;">Choose the pooch that best fits into your lifestyle by exploring the canine statistics below!</p>
         <a HREF="scatterplot/index.html" style="color:white" style="text-align:center">Click here to view trends amongst different breed sizes</a>
         <b></b>
-        <a HREF="word_cloud/word_cloud.html" style="color:white" style="text-align:center">And CLICK HERE for a visualization of the many personality traits of the dogs we love!</a>
+        <a HREF="word_cloud/word_cloud.html" style="color:white" style="text-align:center">Or CLICK HERE for a visualization of the many personality traits of the dogs we love!</a>
       </div>
    
 </div>
-</div>
+</div> 
 <div class="row">
   <div class="col-md-2">
-    <div class="well">
+    <div class="well" >
       <h5>Breed Selector:</h5>
-      <select id="selDataset" onchange="optionChanged(this.value)"></select>
+      <select id="selDataset" onchange="optionChanged(this.value)" style="width: 150px"></select>
     </div>
-    <div style="color:green ;"class="panel panel-primary">
+    <div style="color:green ;"class="panel panel-success">
       <div  class="panel-heading">
-        <h3 class="panel-title;" style= "background-color:green;">Canine Info</h3>
+        <h3 class="panel-title;">Canine Info</h3>
       </div>
-      <div id="sample-metadata" style= "color: green ;" class= "panel-body"></div>
+          <div id="sample-metadata" style= "color: green; padding:0;border:0px;height:450px;overflow-y:auto" class="small"; class= "panel-heading" ></div>
     </div>
+
   </div>
+
   <div class="col-md-9">
     <div id="trybar"></div>
   </div>
-  <div class="col-md-5">
+</div>
+<div class="container">
+  <div class="col-md-7">
     <div id="bar"></div>
   </div>
 
-  <div class="col-md-5">
+  <div class="col-md-3">
     <div id="gauge"></div>
+  </div>
 </div>
   </div>
 
